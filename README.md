@@ -15,4 +15,5 @@ Este repositorio contiene un proyecto de testing funcional manual realizado sobr
 Estudiante de Licenciatura en Sistemas – ORT Uruguay  
 En formación en Cisco Networking Academy – Ciberseguridad
 
+Proyecto cerrado el 9 de mayo de 2025.
 ---
